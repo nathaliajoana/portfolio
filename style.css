@@ -69,7 +69,7 @@ header img{
 #arrow{
     font-size: 35px;
     cursor: pointer;
-    animation: blink 1s steps(5, start) infinite;
+    animation: blink 2s steps(5, start) infinite;
 }
 
 @keyframes blink{
