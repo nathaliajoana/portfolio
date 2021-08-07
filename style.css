@@ -17,8 +17,7 @@ ul a{
 
 
 body{
-    background-image: linear-gradient(to left bottom, #845ec2, #ad5dbd, #ce5eb3, #ea62a7, #ff6b99);
-    background-size: 200%;
+    background-image: linear-gradient(90deg, #845ec2, #ad5dbd, #ce5eb3, #ea62a7, #ff6b99);
     background-repeat: none;
 }
 
@@ -144,20 +143,16 @@ footer span a:hover{
 }
 
 @media only screen and (max-width: 1024px){
-    .form{
-        width: 100%;
+    .container {
+    padding-top: 35%;
     }
-    footer{
-        padding-top: 50%
+    .form{
+        width: 100%; 
+        padding-bottom: 35%;
     }
     footer span{
         font-size: 100%;
     }
-    .form{
-        padding-top: 35%;
-        padding-bottom: 35%;
-    }
-
 
 }
 
