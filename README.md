@@ -1,5 +1,6 @@
-# Portfólio gama-academy-start-tech
+# Portfólio Front-End
 Meu primeiro projeto com Front-End em HTML, CSS e um pouco de Javascript.
+Site responsivo, utilizando flexbox e media queries.
 
 ## Disponível em: 
 * https://nathaliajoana.github.io/portfolio/
